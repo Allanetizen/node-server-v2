@@ -1,0 +1,22 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "first node",
+  "main": "hellonode.js",
+  "scripts": {
+    "test": "lets do this"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allanetizen/node-server-v2.git"
+  },
+  "author": "Allan Kipkosgei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Allanetizen/node-server-v2/issues"
+  },
+  "homepage": "https://github.com/Allanetizen/node-server-v2#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
